@@ -1,7 +1,8 @@
+import { Button } from 'carbon-components-react';
+import './app.scss';
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import './app.scss';
 
 class App extends Component {
   render() {
